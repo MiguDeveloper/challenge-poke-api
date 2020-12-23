@@ -52,12 +52,15 @@ body {
     &-img {
       border-radius: 100%;
       border: 5px solid white;
-      margin-top: -53px;
+      margin-top: -105px;
       background-color: white;
+      width: 200px;
+      height: 200px;
     }
     &-title {
       font-size: 1.8rem;
       margin: 2rem 0 1.3rem;
+      text-transform: capitalize;
       span {
         font-weight: 400;
         color: $dark-gray;
